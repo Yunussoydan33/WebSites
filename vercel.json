@@ -1,0 +1,7 @@
+{
+    "cleanUrls": true,
+    "rewrites": [
+      { "source": "/googledbb37b8432ee1511.html", "destination": "/googledbb37b8432ee1511.html" }
+    ]
+  }
+  
